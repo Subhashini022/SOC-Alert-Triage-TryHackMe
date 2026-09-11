@@ -61,7 +61,15 @@ Through this exercise, I gained practical exposure to:
 
 ## Evidence
 
-Screenshots from the TryHackMe SOC Simulator are included in this repository to demonstrate the completed hands-on exercises.
+## Screenshots
+
+### Alert Classification
+
+![Alert Classification](alert-classification.png)
+
+### Performance Results
+
+![Performance Results](performance-results.png)
 
 ## Disclaimer
 
