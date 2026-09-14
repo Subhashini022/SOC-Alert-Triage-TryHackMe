@@ -27,6 +27,22 @@ When analyzing Event ID 1, I focus on:
 
 A parent process starts a child process.
 
+### Example 1 – Likely Legitimate Activity
+
+**Event ID:** 1  
+**Parent Process:** `explorer.exe`  
+**Child Process:** `cmd.exe`  
+**Command Line:** `cmd.exe /c ipconfig`
+
+#### Analysis
+
+- `explorer.exe` is a normal Windows process.
+- `cmd.exe` is a legitimate Windows command interpreter.
+- `ipconfig` is a normal networking command.
+- There are no obvious suspicious indicators.
+
+**Verdict: Likely Legitimate**
+
 Example:
 
 ```text
