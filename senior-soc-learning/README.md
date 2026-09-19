@@ -1,97 +1,76 @@
 # SOC Learning – TryHackMe
 
-This folder contains my hands-on cybersecurity learning and SOC practice completed through TryHackMe.
+This folder documents my hands-on cybersecurity and SOC learning completed through TryHackMe.
 
 ## Completed Modules
 
 ### 1. Traffic Analysis Pitfalls
 
-**Completed tasks:** 8  
-**Points earned:** 96
+Completed practical exercises focused on traffic analysis and identifying common challenges during security investigations.
 
-Key areas covered:
-- Traffic analysis
-- Common analysis pitfalls
-- Reviewing security activity
-- Improving investigation accuracy
+![Traffic Analysis Pitfalls](screenshots/traffic-analysis-pitfalls.png)
+
+---
 
 ### 2. SOC L2 Alert Triage
 
-**Completed tasks:** 6  
-**Points earned:** 48
+Practiced reviewing security alerts, analyzing L1 investigation notes, investigating relevant logs, and determining the appropriate next steps for escalation and response.
 
-Key areas covered:
-- Reviewing security alerts
-- Understanding detection rule logic
-- Reviewing L1 analyst comments
-- Investigating logs
-- Identifying related activity
-- Improving detection coverage
-- Escalation and investigation workflow
+![SOC L2 Alert Triage](screenshots/soc-l2-alert-triage.png)
+
+---
 
 ### 3. Report Writing for SOC L2
 
-**Completed tasks:** 6  
-**Points earned:** 80
+Practiced documenting security incidents and communicating investigation findings clearly for both technical and management audiences.
 
-Key areas covered:
-- Security incident reporting
-- Communicating investigation findings
-- Writing clear incident summaries
-- Documenting recommended actions
-- Executive-level security communication
+![Report Writing for SOC L2](screenshots/report-writing-soc-l2.png)
+
+---
 
 ### 4. Defensive Security Trends
 
-**Completed tasks:** 7  
-**Points earned:** 112
+Explored current cybersecurity trends and their impact on Security Operations Centers, including AI-assisted security operations, supply-chain attacks, infostealers, RMM abuse, and Initial Access Brokers.
 
-Key areas covered:
-- Emerging cybersecurity threats
-- AI in Security Operations
-- AI-assisted attacks
-- Supply-chain attacks
-- Infostealers
-- Initial Access Brokers
-- RMM abuse
-- Modern SOC detection and response
+![Defensive Security Trends](screenshots/defensive-security-trends.png)
+
+---
 
 ### 5. Senior Security Analyst Intro
 
-**Completed tasks:** 6  
-**Points earned:** 32
+Practiced concepts related to senior SOC responsibilities, including alert investigation, escalation, log analysis, incident response, threat hunting, detection improvement, and lessons learned.
 
-Key areas covered:
-- L1 to L2 alert escalation
-- Alert review
-- Detection rule analysis
-- Log investigation
-- Threat verification
-- Incident response
-- Lessons learned
-- Detection improvement
-- Threat hunting mindset
+![Senior Security Analyst Intro](screenshots/senior-security-analyst-intro.png)
+
+---
 
 ## SOC Investigation Workflow
 
-The training covered a typical SOC investigation workflow:
+The exercises helped me understand a structured SOC investigation workflow:
 
 1. Receive or escalate an alert
-2. Review the alert and detection rule
-3. Review the L1 analyst's comments
-4. Determine whether deeper log analysis is required
-5. Investigate relevant logs
-6. Verify suspicious activity
-7. Respond to the alert
-8. Resolve the incident
-9. Review lessons learned
-10. Improve detection and prevention
+2. Review the alert and detection logic
+3. Review previous analyst investigation
+4. Investigate relevant logs
+5. Verify suspicious activity
+6. Determine the appropriate response
+7. Resolve and document the incident
+8. Identify lessons learned
+9. Improve detection and prevention
 
 ## Key Takeaways
 
-Through these exercises, I developed a better understanding of how SOC analysts investigate security alerts, perform deeper analysis, communicate findings, respond to incidents, and improve detection processes.
+- Improved understanding of SOC alert triage and escalation
+- Practiced log and traffic analysis
+- Learned the importance of detection coverage
+- Practiced incident response decision-making
+- Improved security incident reporting
+- Explored emerging cybersecurity trends
+- Developed a better understanding of L2 and senior SOC responsibilities
 
-These exercises are part of my ongoing cybersecurity and SOC analyst learning journey.
+## SOC Level-Up
+
+![SOC Level-Up Badge](screenshots/soc-level-up-badge.png)
 
 ## Platform
 
